@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DeleteActors",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "ThomasCantoni",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DeleteActors",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
